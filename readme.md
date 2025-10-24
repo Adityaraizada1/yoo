@@ -93,8 +93,5 @@ Example header comment inside src/main.c:
 4. Run `make` and `make test`.
 5. Open a pull request with a concise description.
 
-## License
-MIT License (replace if needed).
-
 ## Contact
 Open an issue in the repository for questions or bug reports.
